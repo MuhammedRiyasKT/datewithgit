@@ -1,0 +1,48 @@
+* [33mcommit 52b42a34bf13f85b06c4e0b79c9219b1004f37f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+[31m|[m Author: Muhammed Riyas KT <mhdriyaskt10@gmail.com>
+[31m|[m Date:   Sat Aug 17 04:07:16 2024 -0700
+[31m|[m 
+[31m|[m     hello file modified
+[31m|[m   
+[31m|[m * [33mcommit 25b579621528d540b7a6c1e03f5ab6f2d464f3c3[m[33m ([m[1;32mmaster[m[33m)[m
+[31m|[m[31m/[m  Author: Muhammed Riyas KT <mhdriyaskt10@gmail.com>
+[31m|[m   Date:   Sat Aug 17 04:00:36 2024 -0700
+[31m|[m   
+[31m|[m       hey file modified
+[31m|[m   
+[31m|[m * [33mcommit 1eec4491bd48bba4365302f38b4f8357e18eda7c[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[31m|[m[31m/[m[34m|[m Merge: 671088e 45a4bba
+[31m|[m [34m|[m Author: Muhammed Riyas KT <mhdriyaskt10@gmail.com>
+[31m|[m [34m|[m Date:   Sat Aug 17 03:38:50 2024 -0700
+[31m|[m [34m|[m 
+[31m|[m [34m|[m     WIP on feature: 671088e hey file edited
+[31m|[m [34m|[m 
+[31m|[m * [33mcommit 45a4bbaedbc4315392ecc349e089d47cad914b85[m
+[31m|[m[31m/[m  Author: Muhammed Riyas KT <mhdriyaskt10@gmail.com>
+[31m|[m   Date:   Sat Aug 17 03:38:50 2024 -0700
+[31m|[m   
+[31m|[m       index on feature: 671088e hey file edited
+[31m|[m 
+* [33mcommit 671088e5dc9097022766ddff32eeba82d469fd2d[m
+[34m|[m Author: Muhammed Riyas KT <mhdriyaskt10@gmail.com>
+[34m|[m Date:   Sat Aug 17 01:46:04 2024 -0700
+[34m|[m 
+[34m|[m     hey file edited
+[34m|[m 
+* [33mcommit 4bff099cc1cd636fad530af5d4ce148751264e47[m
+[34m|[m Author: Muhammed Riyas KT <mhdriyaskt10@gmail.com>
+[34m|[m Date:   Sat Aug 17 01:18:07 2024 -0700
+[34m|[m 
+[34m|[m     Second file added
+[34m|[m 
+* [33mcommit 1cfded0832e8d3b401185444e1b0689b689cc9ea[m
+[34m|[m Author: Muhammed Riyas KT <mhdriyaskt10@gmail.com>
+[34m|[m Date:   Sat Aug 17 00:28:34 2024 -0700
+[34m|[m 
+[34m|[m     hello world
+[34m|[m 
+* [33mcommit eefaa4972b2cebe13fb88e1722a0dce23efed1ae[m
+  Author: Muhammed Riyas KT <mhdriyaskt10@gmail.com>
+  Date:   Sat Aug 17 00:10:07 2024 -0700
+  
+      My project
